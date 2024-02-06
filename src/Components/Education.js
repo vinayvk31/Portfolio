@@ -13,10 +13,10 @@ import {
     faGraduationCap,
 } from '@fortawesome/free-solid-svg-icons';
 
-const workIcon = {
-    icon: <FontAwesomeIcon icon={faBriefcase} />,
-    iconStyle: { background: 'rgb(33, 150, 243)', color: '#fff' },
-};
+// const workIcon = {
+//     icon: <FontAwesomeIcon icon={faBriefcase} />,
+//     iconStyle: { background: 'rgb(33, 150, 243)', color: '#fff' },
+// };
 // const schoolIcon = {
 //     icon: <FontAwesomeIcon icon={faSchool} />,
 //     iconStyle: { background: 'rgb(233, 30, 99)', color: '#fff' },
