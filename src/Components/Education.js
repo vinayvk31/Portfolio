@@ -8,7 +8,7 @@ import 'react-vertical-timeline-component/style.min.css';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
-    faBriefcase,
+    // faBriefcase,
     // faSchool,
     faGraduationCap,
 } from '@fortawesome/free-solid-svg-icons';
