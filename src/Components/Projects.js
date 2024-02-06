@@ -2,7 +2,6 @@ import React from 'react';
 import ProjectBox from './ProjectBox';
 import AadviImage from '../images/aadvi.png';
 import ComplaintApp from '../images/ComplainApp.png';
-import FoodImage from '../images/food.png';
 
 const Projects = () => {
     return (
