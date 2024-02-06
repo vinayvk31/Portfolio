@@ -33,29 +33,15 @@ function Experience() {
             date: 'Aug 2022 - Dec 2023',
             title: 'Master of Science (M.S) ',
             subtitle: 'Information Technology',
-            desc: 'University of Cincinnati, OHIO, USA',
+            desc: 'University of Cincinnati, Ohio, USA',
         },
         {
             icon: starIcon,
             date: 'Aug 2016 - Aug 2020',
             title: 'Bachelor of Technology (B.Tech) ',
             subtitle: 'Information Technology',
-            desc: 'C.V.R College of Engineering, India',
-        },
-        {
-            icon: workIcon,
-            date: 'Jun 2014 - July 2016',
-            title: 'High School - Intermediate',
-            subtitle: 'Telangana State Board of Intermediate Education ',
-            desc: ' Vishra Junior College,India',
-        },
-        // {
-        //     icon: schoolIcon,
-        //     date: '2008 - 2017',
-        //     title: 'Secondary Schoool',
-        //     subtitle: 'State board ',
-        //     desc: 'T.R.R HIGH SCHOOL ,HYDERABAD',
-        // },
+            desc: 'C.V.R College of Engineering, Hyderbad, India',
+        }
     ];
 
     return (

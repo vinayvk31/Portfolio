@@ -4,17 +4,14 @@ import {FaGithub} from 'react-icons/fa';
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
     const desc = {
-        'E-Farm Web AppDesc' : 'Angular,Eclipse IDE, HTML5, CSS3 ,Bootstrap,Firebase ',
-        'Complaint AppGithub' : 'https://github.com/chowdrysai/ComplaintApp',
-        'ComplaintAppWebsite' : '',
+        'Library Web AppDesc' : 'Java, Spring Boot, React, HTML5, CSS, Bootstrap4',
+        'Library AppGithub' : 'https://github.com/vinayvk31/Library-web-app',
+        'Library AppWebsite' : '',
 
-        'Job-PortalDesc' : 'Javascript, Node.js, Express, React, MySQL, HTML4,Bootstrap4',
-        'AadviWebsiteGithub' : 'https://github.com/chowdrysai/FoodAppIn',
-        'AadviWebsiteWebsite' : '',
+        'Job-PortalDesc' : 'Javascript, Node.js, Express, React, MySQL, HTML4, Bootstrap4',
+        'Job-PortalWebsiteGithub' : 'https://github.com/vinayvk31/Job_Portal',
+        'Job-PortalWebsiteWebsite' : '',
 
-        'Food AppDesc':'Javascript, Node.js, Express, React, Redux, MongoDB,JWt Authentication,',
-        'FoodAppGithub':'https://github.com/chowdrysai/Aadvi',
-        'FoodAppWebsite':''
     };
     let show ='';
     if(desc[projectName + 'Github']===''){

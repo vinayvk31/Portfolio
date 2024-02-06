@@ -9,12 +9,12 @@ const About = () => {
             <div className='AboutText'>
                 <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
                 <p>
-            Hi, my name is <b>Chowdry Vinay Kumar</b> and I am from Hyderabad, India.
-            I'm a <b>MERN stack developer</b> and completed graduation in <b>Information Technology</b>. <br/><br/>
-            Gained handful of experience working as a <b>software developer</b> .
+            Hi, my name is <b>Chowdry Vinay Kumar</b> and I am from Cincinnati, Ohio.
+            I'm a <b>Full stack developer</b> expertised in Java, Spring Boot, Node.js, Angular and React. <br/><br/>
+            I have completed my master's in <b>Information Technology</b> from <b>University of Cincinnati</b>. <br/><br/>
             I love creating projects that explore new things and have better functionalities, you can check out some of my work in the projects section.<br/><br/>
             I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love to do <b>drawing,travelling</b> </p>
+            Apart from coding, I love to do <b>travelling, gaming and watching Anime</b> </p>
             </div>
 
             <div>

@@ -9,9 +9,8 @@ const Projects = () => {
         <div style={{  }}>
             <h1 className='projectHeading'>My <b>Projects</b></h1>
             <div className='project'>
-                <ProjectBox projectPhoto={ComplaintApp} projectName="E-Farm Web App" />
+                <ProjectBox projectPhoto={ComplaintApp} projectName="Library Web App" />
                 <ProjectBox projectPhoto={AadviImage} projectName="Job-Portal" />
-                <ProjectBox projectPhoto={FoodImage} projectName="Food App" />
             </div>
         </div>
     );
