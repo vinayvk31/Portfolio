@@ -20,24 +20,24 @@ function Experience() {
     const timeline = [
         {
             icon: workIcon,
+            date: 'Aug 2023 - present',
+            title: 'SOFTWARE DEVELOPER',
+            subtitle: 'VERIZON WIRELESS SYSTEMS',
+            desc: 'Angular, AngularJS, Java, Spring Boot, Javascript, HTML, CSS , MySQL, Docker, Protactor Tools',
+        },
+        {
+            icon: workIcon,
             date: 'Sep 2020 - July 2022',
             title: 'SOFTWARE ENGINEER',
             subtitle: 'INFOSYS',
-            desc: 'SpringBoot, JAVA, Spring JPA/Hibernate, Angular, Javascript, HTML, CSS , SQL/NoSQL, Github, AWS',
+            desc: 'Angular, Javascript, Express, Node.js, HTML, CSS , SQL/NoSQL, Github, AWS',
 
         },
         {
             icon: workIcon,
-            date: 'Feb 2020 - Sep 2020',
-            title: 'SOFTWARE ENGINEER INTERN',
-            subtitle: 'OPENTEXT',
-            desc: 'Node.js, React.js, MongoDB, Javascript, HTML, CSS , MySQL, Docker, Protactor Tools',
-        },
-        {
-            icon: workIcon,
-            date: 'June 2019 - Feb 2020',
-            title: 'SOFTWARE ENGINEER INTERN',
-            subtitle: 'AADVI TECH.SOLUTIONS',
+            date: 'Jan 2019 - Feb 2020',
+            title: 'SOFTWARE Developer',
+            subtitle: 'SUNDARAM FINANCE',
             desc: 'JavaScript, Postman API, MySQL, Git/GitHub, SDLC Life Cycle',
         },
 
