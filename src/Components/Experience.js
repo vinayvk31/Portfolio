@@ -36,7 +36,7 @@ function Experience() {
         {
             icon: workIcon,
             date: 'Jan 2019 - Feb 2020',
-            title: 'SOFTWARE Developer',
+            title: 'SOFTWARE DEVELOPER',
             subtitle: 'SUNDARAM FINANCE',
             desc: 'JavaScript, Postman API, MySQL, Git/GitHub, SDLC Life Cycle',
         },
