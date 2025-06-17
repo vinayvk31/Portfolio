@@ -37,7 +37,7 @@ function Experience() {
             icon: workIcon,
             date: 'Feb 2020 - Sep 2020',
             title: 'SDE Intern',
-            subtitle: 'SUNDARAM FINANCE',
+            subtitle: 'OpenText',
             desc: 'JavaScript, Postman API, MySQL, Git/GitHub, React, Node.js, SDLC Life Cycle',
         },
 
